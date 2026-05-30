@@ -1,0 +1,14 @@
+From: IT Support <it@warlabs.com>
+To: aragorn <webadmin@warlabs.com>
+Subject: Recordatorio
+Date: Tue, 04 Feb 2026 22:18:03 -0600
+
+Hola,
+
+Te recuerdo que cambie las credenciales de Sn0wy, no olvides cambiar las credenciales despues.
+
+User: sn0wfl4k3
+Pass: superpass123
+
+Saludos,
+IT Support
