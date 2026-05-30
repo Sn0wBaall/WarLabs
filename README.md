@@ -140,7 +140,7 @@ Sin argumentos entra en **modo interactivo REPL**. También admite comandos dire
 | Miembro | Rol |
 |:--------|:----|
 | **Sinuhe Nieves Rico** ([Sn0wBaall](https://github.com/Sn0wBaall)) | Desarrollador |
-| **Axel Vázquez Pérez** (Aragorn) | Desarrollador |
+| **Axel Vázquez Pérez** ([Leevyeo](https://github.com/Leevyeo)) | Desarrollador |
 
 ---
 
