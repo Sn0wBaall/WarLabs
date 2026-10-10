@@ -1,0 +1,8 @@
+# Dependencias de la GUI y la CLI
+customtkinter
+rich
+
+# Solo para ejecutar los tests (opcional):
+#     pip install pytest
+#     python3 -m pytest tests/ -v
+# Los tests no necesitan Docker.
